@@ -5,3 +5,7 @@ This accepts two arguments. The fist argument is the title of the note, the seco
 In my use, a PHP file is sending the arguments through a web site.
 
 The output section can be changed from printing to generating HTML
+
+
+Example page at
+http://xfid.net/notes/notes2.php
